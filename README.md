@@ -292,7 +292,7 @@ map([1, 2, 3, -9]){|n| n * n} #=> [1, 4, 9, 81]
 ```
 ## Video Walkthrough
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/y2tGPQdku4c" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" strc="htps://www.youtube.com/embed/y2tGPQdku4c" frameborder="0" allowfullscreen></iframe>
 
 ## Conclusion
 
